@@ -1,5 +1,5 @@
 import FollowMe from "./components/FollowMe"
-import Footer from "./components/Footer/Footer"
+//import Footer from "./components/Footer/Footer"
 import Navbar from "./components/Navbar/Navbar"
 import SocialMediaBar from "./components/SocialMediaBar"
 import { MenuNavbarProvider } from "./hooks/useMenuNavbar"
@@ -44,7 +44,7 @@ function App() {
         <Contact reference={contactRef} />
         <FollowMe />
       </main>
-      <Footer scrollToSection={scrollToSection} />
+      
     </MenuNavbarProvider>
 
   )

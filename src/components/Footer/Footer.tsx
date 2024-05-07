@@ -1,15 +1,16 @@
 //import { ScrollToSection } from "../../App";
-import { useMenuNavbar } from "../../hooks/useMenuNavbar";
-import FooterStyles from "../Navbar/Navbar.module.css";
+//import { useMenuNavbar } from "../../hooks/useMenuNavbar";
+//import FooterStyles from "../Navbar/Navbar.module.css";
 //import FooterStyles from "./Footer.module.css";
-import { ScrollToSection } from "../../App";
-
+//import { ScrollToSection } from "../../App";
+/*
 interface Pros {
     scrollToSection: ScrollToSection
 }
+*/
 
 
-
+/*
 export default function Footer({ scrollToSection }: Pros) {
     const currentDate = new Date().getFullYear();
     //const { items, changeSelectedItem } = useMenuNavbar()
@@ -29,3 +30,4 @@ export default function Footer({ scrollToSection }: Pros) {
         </footer>
     )
 }
+*/
